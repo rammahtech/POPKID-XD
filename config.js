@@ -34,7 +34,7 @@ module.exports = {
     AUTO_BIO: process.env.AUTO_BIO || "true",
     TIME_ZONE: process.env.TIME_ZONE || "Africa/Nairobi", // Fixed for your region
 
-    // ====== Security & Group ======
+    //✨ ====== Security & Group ======
     ANTI_CALL: process.env.ANTI_CALL || "false",
     ANTI_LINK: process.env.ANTI_LINK || "false",
     ANTI_LINK_MODE: process.env.ANTI_LINK_MODE || "warn",
