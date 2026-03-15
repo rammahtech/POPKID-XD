@@ -1,8 +1,8 @@
 {
-  "name": "POPKID-XTR",
-  "description": "WhatsApp bot made by Popkid from Kenya",
-  "logo": "https://files.catbox.moe/kiy0hl.jpg",
-  "keywords": ["POPKID-XTR", "whatsapp-bot", "baileys"],
+  "name": "𝐃𝐄𝐌𝐈𝐎-𝐗-𝐓𝐄𝐂𝐇",
+  "description": "WhatsApp bot made by RAMMAH-TECH from Kenya",
+  "logo": "https://litter.catbox.moe/6g82wrskt2tbkjac.jpg",
+  "keywords": ["𝐃𝐄𝐌𝐈𝐎-𝐗-𝐓𝐄𝐂𝐇", "whatsapp-bot", "baileys"],
   "success_url": "/",
   "stack": "heroku-24",
   "env": {
@@ -13,7 +13,7 @@
     "STICKER_NAME": {
       "description": "The name appearing on stickers created by the bot.",
       "required": false,
-      "value": "POPKID-XTR"
+      "value": "𝐃𝐄𝐌𝐈𝐎-𝐗-𝐓𝐄𝐂𝐇"
     }, 
     "CUSTOM_STATUS_EMOJIS": {
       "description": "Emojis used for status reactions, separated by commas.",
@@ -53,7 +53,7 @@
     "AUTO_STATUS_MSG": {
       "description": "The message sent as an auto-reply to status views.",
       "required": false,
-      "value": "*𝗦𝗘𝗘𝗡 𝗬𝗢𝗨𝗥 𝗦𝗧𝗔𝗧𝗨𝗦 𝗕𝗬 𝗣𝗢𝗣𝗞𝗜𝗗 𝗫𝗧𝗥🔄*"
+      "value": "*𝗦𝗘𝗘𝗡 𝗬𝗢𝗨𝗥 𝗦𝗧𝗔𝗧𝗨𝗦 𝗕𝗬 𝐃𝐄𝐌𝐈𝐎-𝐗-𝐓𝐄𝐂𝐇🔄*"
      }, 
     "ANTI_DELETE": {
       "description": "Enable Anti-Delete to prevent message loss.",
@@ -68,17 +68,17 @@
     "OWNER_NAME": {
       "description": "The name of the bot owner.",
       "required": false,
-      "value": "POPKID"
+      "value": "RAMMAH-TECH"
     }, 
     "OWNER_NUMBER": {
       "description": "The WhatsApp number of the owner (include country code).",
       "required": false,
-      "value": "254732297194"
+      "value": "254798942781"
     }, 
     "BOT_NAME": {
       "description": "The display name of your bot.",
       "required": false,
-      "value": "POPKID-XD"
+      "value": "𝐃𝐄𝐌𝐈𝐎-𝐗-𝐓𝐄𝐂𝐇"
     }, 
     "ANTI_LINK": {
       "description": "Automatically remove users who send group links.",
@@ -93,7 +93,7 @@
     "MENU_IMAGE_URL": {
       "description": "The direct URL for the bot's menu image.",
       "required": false,
-      "value": "https://files.catbox.moe/kiy0hl.jpg"
+      "value": "https://litter.catbox.moe/6g82wrskt2tbkjac.jpg"
     },
     "AUTO_REACT": {
       "description": "Bot reacts to every incoming message.",
