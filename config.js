@@ -14,7 +14,7 @@ module.exports = {
     AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
     AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
     AUTO_REACT_STATUS: process.env.AUTO_REACT_STATUS || "true", // Added for logic sync
-    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*𝐏𝐎𝐏𝐊𝐈𝐃 𝐌𝐃 𝐕𝐈𝐄𝐖𝐄𝐃✅*",
+    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*𝐃𝐄𝐌𝐈𝐎-𝐗-𝐓𝐄𝐂𝐇 𝐕𝐈𝐄𝐖𝐄𝐃✅*",
     CUSTOM_STATUS_EMOJIS: process.env.CUSTOM_STATUS_EMOJIS || "❤️,✨,🔥,💯,👑",
 
     // ====== Anti-Delete Config ======
@@ -43,15 +43,15 @@ module.exports = {
     DELETE_LINKS: process.env.DELETE_LINKS || "true",
 
     // ====== Personalization ======
-    BOT_NAME: process.env.BOT_NAME || "𝐏𝐎𝐏𝐊𝐈𝐃 𝐌𝐃",
-    OWNER_NAME: process.env.OWNER_NAME || "𝐏𝐎𝐏𝐊𝐈𝐃",
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "254732297194",
-    DEV: process.env.DEV || "254732297194",
-    STICKER_NAME: process.env.STICKER_NAME || "𝐏𝐎𝐏𝐊𝐈𝐃 𝐌𝐃",
-    DESCRIPTION: process.env.DESCRIPTION || "*𝙿𝙾𝙿𝙺𝙸𝙳 𝚇𝙼𝙳 𝙱𝙾𝚃😇*",
-    MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/d1stg5.jpg",
-    ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/d1stg5.jpg",
-    LIVE_MSG: process.env.LIVE_MSG || "> 𝐏𝐎𝐏𝐊𝐈𝐃 𝐌𝐃 𝐁𝐎𝐓😇",
+    BOT_NAME: process.env.BOT_NAME || "𝐃𝐄𝐌𝐈𝐎-𝐗-𝐓𝐄𝐂𝐇",
+    OWNER_NAME: process.env.OWNER_NAME || "RAMMAH-TECH",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "254798942781",
+    DEV: process.env.DEV || "254798942781",
+    STICKER_NAME: process.env.STICKER_NAME || "𝐃𝐄𝐌𝐈𝐎-𝐗-𝐓𝐄𝐂𝐇",
+    DESCRIPTION: process.env.DESCRIPTION || "*𝐃𝐄𝐌𝐈𝐎-𝐗-𝐓𝐄𝐂𝐇😇*",
+    MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://litter.catbox.moe/6g82wrskt2tbkjac.jpg",
+    ALIVE_IMG: process.env.ALIVE_IMG || "https://litter.catbox.moe/6g82wrskt2tbkjac.jpg",
+    LIVE_MSG: process.env.LIVE_MSG || "> 𝐃𝐄𝐌𝐈𝐎-𝐗-𝐓𝐄𝐂𝐇😇",
     
     // ====== Reactions ======
     AUTO_REACT: process.env.AUTO_REACT || "false",
