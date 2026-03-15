@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "pm2": "pm2 start index.js --deep-monitoring --attach --name POPKID-MD",
+    "pm2": "pm2 start index.js --deep-monitoring --attach --name 𝐃𝐄𝐌𝐈𝐎-𝐗-𝐓𝐄𝐂𝐇",
     "stop": "pm2 stop 𝐃𝐄𝐌𝐈𝐎-𝐗-𝐓𝐄𝐂𝐇",
     "restart": "pm2 restart 𝐃𝐄𝐌𝐈𝐎-𝐗-𝐓𝐄𝐂𝐇"
   },
